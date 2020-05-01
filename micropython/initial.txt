@@ -1,0 +1,5 @@
+MicroPython is a lean implementation of the Python 3 programming language that has been pared down to run efficiently 
+on microcontrollers. Python is a relatively simple (but powerful) language that is easy for beginners to pick up and has been
+gaining popularity in schools as an introductory language. MicroPython has nearly all of the features of Python, which means that 
+interacting with hardware is now easily accessible to beginners and seasoned
+Python programmers alike.
